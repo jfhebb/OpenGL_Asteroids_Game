@@ -1,0 +1,153 @@
+﻿Build started 06/04/2012 10:46:18 PM.
+     1>Project "C:\Users\Josh\Documents\School\Graphics_Term\Demos Set 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Demos Set 1.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt term_proj.cpp
+         term_proj.cpp
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(173): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(173): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(323): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(324): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(418): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(418): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(418): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(418): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(418): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(421): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(431): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(431): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(431): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(431): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(434): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(434): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(434): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(434): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(434): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(437): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(459): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(459): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(467): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(467): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(475): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(475): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(483): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(483): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(493): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(509): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(509): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(515): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(537): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(537): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(537): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(537): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(562): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(567): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(573): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(574): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(588): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(590): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(590): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(596): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(598): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(598): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(607): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(607): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(607): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(614): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(614): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(614): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(615): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(621): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(631): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(633): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(633): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(633): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(636): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(638): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(638): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(638): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(649): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(653): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(666): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(666): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(666): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(673): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(673): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(673): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(674): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(680): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(690): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(692): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(692): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(692): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(694): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(696): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(696): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(696): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(708): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(712): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(719): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(721): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(721): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(721): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(722): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(724): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(724): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(724): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(761): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(762): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(762): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(762): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(765): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(775): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(778): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(778): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(778): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(778): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(782): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(787): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(812): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(812): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(812): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(818): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(821): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(827): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(830): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(833): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(840): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(841): warning C4244: 'argument' : conversion from 'GLint' to 'float', possible loss of data
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(889): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(892): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(895): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(898): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(904): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\josh\documents\school\graphics_term\term_proj.cpp(910): warning C4305: '=' : truncation from 'double' to 'float'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Documents\School\Graphics_Term\Debug\Demos Set 1.exe" /INCREMENTAL /NOLOGO glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Demos Set 1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Josh\Documents\School\Graphics_Term\Debug\Demos Set 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Josh\Documents\School\Graphics_Term\Debug\Demos Set 1.lib" /MACHINE:X86 "Debug\Demos Set 1.exe.embed.manifest.res"
+         Debug\arcball.obj
+         Debug\adjustable.obj
+         Debug\lighting.obj
+         Debug\meshes.obj
+         Debug\gl_utilities.obj
+         Debug\camera.obj
+         Debug\litmeshes.obj
+         Debug\quaternion.obj
+         Debug\term_proj.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Demos Set 1.exe.embed.manifest" /manifest "Debug\Demos Set 1.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Demos Set 1.vcxproj -> C:\Users\Josh\Documents\School\Graphics_Term\Debug\Demos Set 1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Demos Set 1.unsuccessfulbuild".
+         Touching "Debug\Demos Set 1.lastbuildstate".
+     1>Done Building Project "C:\Users\Josh\Documents\School\Graphics_Term\Demos Set 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
